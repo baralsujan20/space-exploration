@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color: white;
+    background-image: url("galaxy.gif");
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+
+    
+
+}
+
+#hero {
+    background-image: url("galaxy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+#main-logo {
+    width:200px;
+    background-color: none;
+}
+
+.btn {
+    padding: 6px 10px;
+    background: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.underline {
+    border-bottom: 2px solid white;
+}
